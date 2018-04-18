@@ -108,6 +108,7 @@ https://github.com/ccpgames
 [Pyfa](https://github.com/pyfa-org/Pyfa)
 
 ### Character search
+[zkillboard](https://zkillboard.com/)
 
 [Local analysis](https://www.evedata.org/localIntel)
 
