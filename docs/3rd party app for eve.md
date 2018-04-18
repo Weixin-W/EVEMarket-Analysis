@@ -60,6 +60,10 @@ What I found it's litter different than our original propose-- use the history d
 
 ## What I found
 
+[UNIWiki's list](https://wiki.eveuniversity.org/Third-party_tools#All_In_One_Tools)
+
+http://eveboard.com/
+
 ### API
 
 CCP is boss
@@ -91,12 +95,19 @@ https://github.com/ccpgames
 
 [Ore price](https://ore.cerlestes.de/ore)
 
+[Mining Helper for EVE Online.android](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer)
+
 #### Planetary Interaction
 
+[EVE PI.android](https://play.google.com/store/apps/details?id=dae.evepi&hl=en)
 
 ### Ship fitting apps
 
-### Enemy warning apps
+[Osmium](https://o.smium.org/)
+
+[Pyfa](https://github.com/pyfa-org/Pyfa)
+
+### Character search
 
 [Local analysis](https://www.evedata.org/localIntel)
 
@@ -104,9 +115,25 @@ https://github.com/ccpgames
 
 [CapsuleerDNA](https://dscan.me/dna/)
 
+[EveBoard](http://eveboard.com/)
+
+## Intel /Enemy warning apps
+
+[EVE Gatecamp Check](http://eve-gatecheck.space/eve/)
+
+[Eve-incursions](https://beta.eve-incursions.de/)
+
+[EVEScout](http://evescout.gladiolus.fi)
+
+[Public Structures of New Eden](http://www.kalkoken.org/apps/evestruct/?page=structures)
+
 ### A bit of everything
 
- [EVE Online Intelligence Data](https://www.evedata.org/)
+[EVE Online Intelligence Data](https://www.evedata.org/)
+
+[Evanova for EVE Online.android](https://play.google.com/store/apps/details?id=com.tlabs.android.evanova)
+
+[EVE HQ](http://evehq.co/)
 
 ## My view
 
