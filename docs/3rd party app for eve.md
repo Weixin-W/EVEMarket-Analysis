@@ -1,4 +1,4 @@
-#3rd party app for eve
+# 3rd party app for eve
 
 [TOC]
 
@@ -6,7 +6,7 @@ Created by [hidesoon](https://github.com/hidesoon), 20180418
 
 Updated by 
 
-##Notification:
+## Notification:
 
 **NOT all 3rd party apps are legal!!!**
 
@@ -20,7 +20,7 @@ There are lots of threads for [multiple clients](https://forums.eveonline.com/c/
 
 ## Where I am looking
 
-###Official forums
+### Official forums
 
  [third-party-developers](https://forums.eveonline.com/c/technology-research/third-party-developers), CPP proved apps, ready to use ones, and perhaps, best ones.
 
@@ -36,7 +36,7 @@ Yeah, where we are now. Tons of project like this, and most of them are small tr
 
 But it's very useful to look at the path of how them develop the program,,,,,e.g. how do them package the API
 
-###Google Scholar
+### Google Scholar
 
 I have to say, the results are so `AMAZING` !!!
 
@@ -46,7 +46,7 @@ Please help yourself!!! crazy crazy
 
 Should we write a journal paper together???
 
-###Brief feedback 
+### Brief feedback 
 
 I have to say, the most applicable development platform is not `python`, it is the platform for web application development, such as `Java`
 
@@ -60,7 +60,7 @@ What I found it's litter different than our original propose-- use the history d
 
 ## What I found
 
-###API
+### API
 
 CCP is boss
 
@@ -68,11 +68,11 @@ https://github.com/ccpgames
 
 [EVE Swagger Interface](https://esi.tech.ccp.is/ui/)
 
-###Skill training apps
+### Skill training apps
 
 [EVEMON](https://github.com/evemondevteam/evemon)
 
-###Market analysis apps
+### Market analysis apps
 
 [EVEmarketer](https://evemarketer.com/)
 
