@@ -120,6 +120,12 @@ https://github.com/ccpgames
 
 ## Intel /Enemy warning apps
 
+[Imp](https://github.com/3vi1/IMP)
+
+[Vinterl](https://github.com/Xanthos-Eve/vintel)
+
+[NEAR2](http://www.evedustry.com/near/)
+
 [EVE Gatecamp Check](http://eve-gatecheck.space/eve/)
 
 [Eve-incursions](https://beta.eve-incursions.de/)
